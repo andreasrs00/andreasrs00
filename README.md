@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Andreas Robson Simanjuntak</h1>
 <h3 align="center">I am a dedicated learner in the field of computer science, driven by curiosity and a passion for problem-solving. Always eager to explore new concepts and technologies, I thrive in challenging myself to grow and adapt in this ever-evolving domain.</h3>
-- 🔭 I am [Computer Science student](at University of North Sumatera)
+- 🔭 I am Computer Science student at University of North Sumatera
 
 - 📫 How to reach me **xandersimanjuntak@gmail.com**
 
