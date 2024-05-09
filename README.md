@@ -3,7 +3,7 @@
 <h3 align="center">I am a dedicated learner in the field of computer science, driven by curiosity and a passion for problem-solving. Always eager to explore new concepts and technologies, I thrive in challenging myself to grow and adapt in this ever-evolving domain.</h3>
 - 🔭 I am Computer Science student at University of North Sumatera
 
-- 📫 How to reach me **xandersimanjuntak@gmail.com**
+- 📫 How to reach me 
 
 <div> <a href="https://www.linkedin.com/in/andreasrs" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/andreasrs00" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
