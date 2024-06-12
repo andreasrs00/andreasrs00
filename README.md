@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Andreas Robson Simanjuntak</h1>
 <h3 align="center">I am a dedicated learner in the field of computer science, driven by curiosity and a passion for problem-solving. Always eager to explore new concepts and technologies, I thrive in challenging myself to grow and adapt in this ever-evolving domain.</h3>
 - 🔭 I am Computer Science student at University of North Sumatera
@@ -26,8 +25,3 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
 </p>
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreasrs00&layout=compact&theme=dark" alt=andreasrs00 />
-
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
